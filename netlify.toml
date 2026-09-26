@@ -1,0 +1,6 @@
+[build]
+  base = "yuna-plan"
+  publish = "."
+
+[functions]
+  directory = "netlify/functions"
